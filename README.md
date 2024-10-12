@@ -30,10 +30,6 @@
 <summary>About Me</summary>
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
 ###
 
 <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
@@ -46,11 +42,11 @@
 
   
 </details></h2>
-<h1><details>
+<h2><details>
 <summary>Future Goals</summary>
 blah blah blah blah you found me!
-</details></h1>
-<h1><details>
+</details></h2>
+<h2><details>
 <summary>Github Trophies</summary>
 blah blah blah blah you found me!
-</details></h1>
+</details></h2>
