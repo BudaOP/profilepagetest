@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<pre>
+<h3>
 🎓 MSc Computer engineering student @Unibo  
 🔍 Main interests in AI & Cybersec  
 🛠 Working on Deep Learning-based cybersecurity solutions  
@@ -24,7 +24,7 @@
 🍅 Love ketchup (but not on pasta or pizza)  
 👨‍💻 Total commits: 6060  
 ⭐ Total stars gained: 172  
-</pre>
+</h3>
 <h2><details>
 <summary>About Me</summary>
 <br clear="both">
