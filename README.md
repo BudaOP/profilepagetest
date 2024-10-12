@@ -28,9 +28,9 @@
 
 <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
-<h1><details> About Me</h1>
+<h1><details> About Me
 blah blah blah blah you found me!
-</details>
+</details></h1>
 <details>
 <summary><h1 Future Goals ></summary>
 blah blah blah blah you found me!
