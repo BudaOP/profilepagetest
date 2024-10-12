@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif" style="margin-right: 20px;" />
+<img align="left" height="200" src="![profile-pic](https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef)" style="margin-right: 20px;" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
