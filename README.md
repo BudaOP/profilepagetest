@@ -25,13 +25,12 @@
 👨‍💻 Total commits: 6060  
 ⭐ Total stars gained: 172  
   
-<h2><details>
-  <summary>About Me</summary>
-</h2>
-
-<img align="left" height="220" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a" />
-
-<pre align="left">
+<details>
+  <summary><h2>About Me</h2></summary>
+  
+  <img align="left" height="220" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
+  
+  <pre align="left">
 🎓 MSc Computer engineering student @Unibo  <br>
 🔍 Main interests in AI & Cybersec  <br>
 🛠 Working on Deep Learning-based cybersecurity solutions  <br>
@@ -40,9 +39,10 @@
 🚩 Currently involved in CTF competitions and sysadmin tasks  <br>
 🛡️ Interested in network security and web security  <br>
 ❤️ In a complicated relationship with Suricata IDS
-</pre>
-
+  </pre>
+  
 </details>
+
 
 <h2><details>
 <summary>Future Goals</summary>
