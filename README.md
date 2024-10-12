@@ -26,4 +26,6 @@
 ⭐ Total stars gained: 172  
 </pre>
 
-<img align="center" height="150" src="https://github.com/user-attachments/assets/a42d9ece-3e1c-494a-843b-70be8bb6c2bd" />
+![Animation - 1728773026475](https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07)
+
+<img align="center" height="200" src="https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07" />
