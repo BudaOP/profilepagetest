@@ -24,7 +24,6 @@
 🍅 Love ketchup (but not on pasta or pizza)  
 👨‍💻 Total commits: 6060  
 ⭐ Total stars gained: 172  
-<pre>
   
 <h2><details>
 <summary>About Me</summary>
@@ -42,7 +41,7 @@ blah blah blah blah you found me!
 <h2><details>
 <summary>Github Trophies</summary>
 blah blah blah blah you found me!
-</details></h2>
+</details></h2> </pre>
 
 
 <h1>Hello</h1>
