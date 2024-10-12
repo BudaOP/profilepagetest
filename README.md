@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 MSc Computer engineering student @Unibo  
+<p align="center">🎓 MSc Computer engineering student @Unibo  
 🔍 Main interests in AI & Cybersec  
 🛠 Working on Deep Learning-based cybersecurity solutions  
 📚 Learning about Computer Vision and Machine Learning stuff  
