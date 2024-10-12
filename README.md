@@ -29,14 +29,14 @@
 <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
 <details>
-<summary><h2 About me >
+<summary><h1 About Me ></summary>
 blah blah blah blah you found me!
 </details>
 <details>
-<summary>Future goals</summary>
+<summary><h1 Future Goals ></summary>
 blah blah blah blah you found me!
 </details>
 <details>
-<summary>Github trophies</summary>
+<summary><h1 Github Trophies ></summary>
 blah blah blah blah you found me!
 </details>
