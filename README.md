@@ -32,11 +32,11 @@
 <summary>About Me</summary>
 blah blah blah blah you found me!
 </details></h1>
-<details>
-<summary><h1 Future Goals ></summary>
+<h1><details>
+<summary>Future Goals</summary>
 blah blah blah blah you found me!
-</details>
-<details>
-<summary><h1 Github Trophies ></summary>
+</details></h1>
+<h1><details>
+<summary>Github Trophies</summary>
 blah blah blah blah you found me!
-</details>
+</details></h1>
