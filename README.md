@@ -24,8 +24,6 @@
 🍅 Love ketchup (but not on pasta or pizza)  
 👨‍💻 Total commits: 6060  
 ⭐ Total stars gained: 172
-
-##
   
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
