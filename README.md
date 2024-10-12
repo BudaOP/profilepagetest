@@ -42,14 +42,12 @@
   </pre>
   
 </details>
-
-
-<h2><details>
-<summary>Future Goals</summary>
+<details>
+<summary><h2> whatever</h2></summary>
 blah blah blah blah you found me!
-</details></h2>
-<h2><details>
-<summary>Github Trophies</summary>
+</details>
+<details>
+<summary><h2> whatever</h2></summary>
 blah blah blah blah you found me!
-</details></h2> </pre>
+</details></pre>
 
