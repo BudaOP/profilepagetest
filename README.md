@@ -1,8 +1,9 @@
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif" style="margin-right: 20px;" />
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif" style="margin-right: "20px";" />
 
 ###
 
-<pre align="left">🎓 MSc Computer engineering student @Unibo  
+<pre align="left">
+  🎓 MSc Computer engineering student @Unibo  
 🔍 Main interests in AI & Cybersec  
 🛠 Working on Deep Learning-based cybersecurity solutions  
 📚 Learning about Computer Vision and Machine Learning stuff  
