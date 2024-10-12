@@ -24,10 +24,11 @@
 🍅 Love ketchup (but not on pasta or pizza)  
 👨‍💻 Total commits: 6060  
 ⭐ Total stars gained: 172
-</pre>
   
 <details>
-  <summary><h2> About Me</h2></summary>
+  <summary><h2>🏀 More About Me</h2></summary>
+
+  ##
   
   <img align="left" height="200" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
   
@@ -40,13 +41,5 @@
   🛡️ Interested in network security and web security  
   ❤️ In a complicated relationship with Suricata IDS
   
-</details>
-<details>
-<summary><h2> whatever</h2></summary>
-blah blah blah blah you found me!
-</details>
-<details>
-<summary><h2> whatever</h2></summary>
-blah blah blah blah you found me!
-</details>
+</details></pre>
 
