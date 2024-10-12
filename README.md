@@ -29,10 +29,4 @@
 <img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
 " style="margin-right: 20px;" />
 
-https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
-
-![Animation - 1728773026475](https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07)
-
-<img align="center" width="2000" src="https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07" />
-
 
