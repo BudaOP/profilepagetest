@@ -28,4 +28,4 @@
 
 ![Animation - 1728773026475](https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07)
 
-<img align="center" height="1000" src="https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07" />
+<img align="center" width="200" src="https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07" />
