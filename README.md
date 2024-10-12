@@ -28,7 +28,7 @@
 
 <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
-<h1><details></h1>
+<h2><details>
 <summary>About Me</summary>
 <br clear="both">
 
@@ -47,7 +47,7 @@
 ###
 
   
-</details>
+</details></h2>
 <h1><details>
 <summary>Future Goals</summary>
 blah blah blah blah you found me!
