@@ -2,4 +2,14 @@
 
 #
 
-![JobIcon](https://github.com/user-attachments/assets/5bcd2a28-cb41-430b-b877-29a4610d07c8) kjhkjasdfkjhadkjf
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5bcd2a28-cb41-430b-b877-29a4610d07c8" width="100">
+</p>
+
+## Professional Interests
+-------------------
+💻 Software development in Python and Java  
+🛠 Network security and administration  
+🚀 Cybersecurity solutions  
+🔍 Computer vision and artificial intelligence  
+
