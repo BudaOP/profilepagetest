@@ -1,6 +1,8 @@
 <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif" style="margin-right: 20px;" />
 
-<pre style="padding-left: 50px;"> <!-- You can adjust the value here -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<pre>
 🎓 MSc Computer engineering student @Unibo  
 🔍 Main interests in AI & Cybersec  
 🛠 Working on Deep Learning-based cybersecurity solutions  
