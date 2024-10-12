@@ -26,6 +26,12 @@
 ⭐ Total stars gained: 172  
 </pre>
 
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/6b697945-8cf6-4ac3-ae86-ef1bfc770816/U3xRpdKsyR.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+
 ![Animation - 1728773026475](https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07)
 
 <img align="center" width="2000" src="https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07" />
+
+
