@@ -25,3 +25,6 @@
 👨‍💻 Total commits: 6060  
 ⭐ Total stars gained: 172  
 </pre>
+
+![line](https://github.com/user-attachments/assets/ca3c8e91-920b-4693-9342-f55daf9e46e3)
+
