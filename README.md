@@ -30,16 +30,14 @@
   
   <img align="left" height="220" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
   
-  <pre align="left">
-🎓 MSc Computer engineering student @Unibo  <br>
-🔍 Main interests in AI & Cybersec  <br>
-🛠 Working on Deep Learning-based cybersecurity solutions  <br>
-📚 Learning about Computer Vision and Machine Learning stuff  <br>
-🌐 Main languages: Python, C/C++, Java  <br>
-🚩 Currently involved in CTF competitions and sysadmin tasks  <br>
-🛡️ Interested in network security and web security  <br>
-❤️ In a complicated relationship with Suricata IDS
-  </pre>
+  🎓 MSc Computer engineering student @Unibo  
+  🔍 Main interests in AI & Cybersec  
+  🛠 Working on Deep Learning-based cybersecurity solutions  
+  📚 Learning about Computer Vision and Machine Learning stuff  
+  🌐 Main languages: Python, C/C++, Java  
+  🚩 Currently involved in CTF competitions and sysadmin tasks  
+  🛡️ Interested in network security and web security  
+  ❤️ In a complicated relationship with Suricata IDS
   
 </details>
 <details>
