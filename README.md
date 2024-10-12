@@ -27,7 +27,7 @@
   
 <h2><details>
 <summary>About Me</summary>
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif"  />
 <pre align="left">🎓 MSc Computer engineering student @Unibo  <br>🔍 Main interests in AI & Cybersec  <br>🛠 Working on Deep Learning-based cybersecurity solutions  <br>📚 Learning about Computer Vision and Machine Learning stuff  <br>🌐 Main languages: Python, C/C++, Java  <br>🚩 Currently involved in CTF competitions and sysadmin tasks  <br>🛡️ Interested in network security and web security  <br>❤️ In a complicated relationship with Suricata IDS</pre>
 
   
