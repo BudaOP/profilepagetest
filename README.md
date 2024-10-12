@@ -26,7 +26,7 @@
 ⭐ Total stars gained: 172  
   
 <details>
-  <summary><h1>About Me</h1></summary>
+  <summary><h2> About Me</h2></summary>
   
   <img align="left" height="220" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
   
