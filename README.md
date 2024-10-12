@@ -23,7 +23,8 @@
 🎶 Love metal, rock, jazz, and blues  
 🍅 Love ketchup (but not on pasta or pizza)  
 👨‍💻 Total commits: 6060  
-⭐ Total stars gained: 172  
+⭐ Total stars gained: 172
+</pre>
   
 <details>
   <summary><h2> About Me</h2></summary>
@@ -47,5 +48,5 @@ blah blah blah blah you found me!
 <details>
 <summary><h2> whatever</h2></summary>
 blah blah blah blah you found me!
-</details></pre>
+</details>
 
