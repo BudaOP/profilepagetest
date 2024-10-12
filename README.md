@@ -26,4 +26,4 @@
 ⭐ Total stars gained: 172  
 </pre>
 
-<img align="left" height="100" src="https://github.com/user-attachments/assets/a42d9ece-3e1c-494a-843b-70be8bb6c2bd" style="margin-right: 20px;" />
+<img align="center" height="150" src="https://github.com/user-attachments/assets/a42d9ece-3e1c-494a-843b-70be8bb6c2bd" />
