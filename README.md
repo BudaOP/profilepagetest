@@ -26,11 +26,10 @@
 ⭐ Total stars gained: 172  
 </pre>
 
-https://lottie.host/embed/6b697945-8cf6-4ac3-ae86-ef1bfc770816/U3xRpdKsyR.json
+<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
+" style="margin-right: 20px;" />
 
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
-
-    <dotlottie-player src="https://lottie.host/6b697945-8cf6-4ac3-ae86-ef1bfc770816/U3xRpdKsyR.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
 
 ![Animation - 1728773026475](https://github.com/user-attachments/assets/54ef0d38-ec79-4576-a493-1758462d5a07)
 
