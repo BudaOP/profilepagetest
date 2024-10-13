@@ -119,8 +119,13 @@
 
 <h1 align="left">Socials</h1>
 
-[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://instagram.com/ibudxnov)
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/ivan-budanov/)
+<a href="https://instagram.com/ibudxnov" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+</a>
+<a href="https://linkedin.com/in/ivan-budanov/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+</a>
+
 
 
 
