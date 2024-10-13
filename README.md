@@ -6,15 +6,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://instagram.com/ibudxnov">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/ivan-budanov/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 
 <img align="left" height="200" src="https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef" style="margin-right: 20px;" />
 
@@ -34,6 +25,15 @@
 🍅 Love ketchup (but not on pasta or pizza)  
 👨‍💻 Total commits: 6060  
 ⭐ Total stars gained: 172
+
+  <div align="center">
+  <a href="https://instagram.com/ibudxnov">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ivan-budanov/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
   
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
