@@ -42,7 +42,7 @@
   
 </details></pre>
 
-<img align="center" height="5" src="https://github.com/user-attachments/assets/5e1f32a4-fb95-41d2-b7b2-8d4278739879"/>
+<img align="center" height="8" src="https://github.com/user-attachments/assets/5e1f32a4-fb95-41d2-b7b2-8d4278739879"/>
 
 
 <h1>Skills</h1>
