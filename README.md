@@ -46,7 +46,7 @@
 
 
 <h1>Skills</h1>
-<h1 align="left">Tech Stack</h1>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h1 align="left">Design Stack</h1>
+<h2 align="left">Design Stack</h2>
 
 ###
 
@@ -114,13 +114,13 @@
 
 ###
 
-<h1 align="left">Others</h1>
+<h2 align="left">Others</h2>
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ###
 
-<h1 align="left">Socials</h1>
+<h2 align="left">Socials</h2>
 
 <a href="https://instagram.com/ibudxnov" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
