@@ -26,15 +26,7 @@
 👨‍💻 Total commits: 6060  
 ⭐ Total stars gained: 172
 
-<div align="left">
-<a href="https://instagram.com/ibudxnov">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-</a></div>
-<div align="left">
-<a href="https://linkedin.com/in/ivan-budanov/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibudxnov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivan-budanov/) 
   
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
