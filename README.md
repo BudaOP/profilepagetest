@@ -125,10 +125,10 @@
 <h2 align="left">Socials</h2>
 
 <a href="https://linkedin.com/in/ivan-budanov/" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" style="text-decoration: none;"/>
 </a>
 <a href="https://instagram.com/ibudxnov" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" style="text-decoration: none;"/>
 </a>
 
 
