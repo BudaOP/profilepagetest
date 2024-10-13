@@ -5,14 +5,6 @@
 </div>
 
 ###
-<div align="left">
-  <a href="https://instagram.com/ibudxnov">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/ivan-budanov/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 <img align="left" height="200" src="https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef" style="margin-right: 20px;" />
 
@@ -49,6 +41,15 @@
   ❤️ In a complicated relationship with Suricata IDS
   
 </details></pre>
+
+<div align="left">
+  <a href="https://instagram.com/ibudxnov">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ivan-budanov/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <h1>Skills</h1>
 <h1 align="left">Tech Stack</h1>
