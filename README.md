@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" src="https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef" style="margin-right: 20px;" />
+<img align="left" height="200" src="https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef" style="margin-right: 20px;" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,7 +42,7 @@
   
 </details></pre>
 
-<img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+<img align="center" height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
 
 <h1>Skills</h1>
